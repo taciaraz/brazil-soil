@@ -15,7 +15,7 @@
 // --- COVARIÁVEIS ESTÁTICAS
 exports.static_covariates = function(){
 
-  // Particle Size Distribution (MapBiomas Soil C2)
+  // Particle Size Distribution (MapBiomas Soil C3)
   // Final version of particle size distribuion (post depth integration)
   
 var sandImg = ee.Image('projects/mapbiomas-workspace/SOLOS/PRODUTOS_C03/psd_final/areia_gbm_prev');
