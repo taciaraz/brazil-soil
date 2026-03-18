@@ -12,13 +12,6 @@
  *   - Versão: 2025-10-23 Taciara
  ******************************************************************************/
 // --- --- --- --- --- COVARIÁVEIS AMBIENTAIS EXPLÍCITAS
-
-
-
-/////  atenção: mb edges esta com problema de acesso - corrigir.
-
-
-
 // --- COVARIÁVEIS ESTÁTICAS
 exports.static_covariates = function(){
 
